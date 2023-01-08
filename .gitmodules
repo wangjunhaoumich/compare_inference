@@ -1,0 +1,6 @@
+[submodule "kernl_repo/kernl"]
+	path = kernl_repo/kernl
+	url = https://github.com/ELS-RD/kernl
+[submodule "transformer-deploy_repo/transformer-deploy"]
+	path = transformer-deploy_repo/transformer-deploy
+	url = https://github.com/ELS-RD/transformer-deploy
